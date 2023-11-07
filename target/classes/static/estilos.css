@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(49, 15, 73);
+    text-align: center;
+    color: aliceblue;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfbaUCMk7-fuY9XGisTn4DySN32FlEvZG3TBkHn3wEkEW40-8H0EHLpCRJ7YD5XxOJFg&usqp=CAU);
+    
+}
+
+.button {
+    background-color: #9451a3; 
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+#cadastro{
+    background-color: rgb(65, 8, 87);
+  }
+
+#pesquisa{
+    background-color:  rgb(65, 8, 87);
+  }
